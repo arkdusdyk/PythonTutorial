@@ -1,2 +1,3 @@
 # PythonTutorial
-Python Beginner
+Python from the beginning
+CodeUp 100
